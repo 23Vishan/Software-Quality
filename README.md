@@ -8,9 +8,13 @@
 ![Output](https://github.com/23Vishan/Software-Quality/blob/main/Images/Output.png)
 
 ## Documentation
+
 ### Test Summary
 ![Summary](https://github.com/23Vishan/Software-Quality/blob/main/Images/Summary.png)
 ### Test Cases
 ![TestCases](https://github.com/23Vishan/Software-Quality/blob/main/Images/TestCases.png)
 ### Test Case Descriptions
 ![TestCases](https://github.com/23Vishan/Software-Quality/blob/main/Images/TestDesc.png)
+### Method Details
+![Functions_1](https://github.com/23Vishan/Software-Quality/blob/main/Images/Func_1.png)
+![Functions_2](https://github.com/23Vishan/Software-Quality/blob/main/Images/Func_2.png)
