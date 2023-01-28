@@ -12,3 +12,5 @@
 ![Summary](https://github.com/23Vishan/Software-Quality/blob/main/Images/Summary.png)
 ### Test Cases
 ![TestCases](https://github.com/23Vishan/Software-Quality/blob/main/Images/TestCases.png)
+### Test Case Descriptions
+![TestCases](https://github.com/23Vishan/Software-Quality/blob/main/Images/TestDesc.png)
