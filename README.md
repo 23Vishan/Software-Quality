@@ -8,5 +8,7 @@
 ![Output](https://github.com/23Vishan/Software-Quality/blob/main/Images/Output.png)
 
 ## Documentation
+### Test Summary
 ![Summary](https://github.com/23Vishan/Software-Quality/blob/main/Images/Summary.png)
+### Test Cases
 ![TestCases](https://github.com/23Vishan/Software-Quality/blob/main/Images/TestCases.png)
