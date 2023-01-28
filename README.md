@@ -16,7 +16,7 @@
 ![](https://github.com/23Vishan/Software-Quality/blob/main/Images/Build.gif)
 
 ## Output
-<img src="https://github.com/23Vishan/Software-Quality/blob/main/Images/Output.png" width=600 height=300><br>
+![](https://github.com/23Vishan/Software-Quality/blob/main/Images/Output.gif)
 
 ## Documentation
 
