@@ -16,5 +16,5 @@
 ### Test Case Descriptions
 ![TestCases](https://github.com/23Vishan/Software-Quality/blob/main/Images/TestDesc.png)
 ### Method Details
-![Functions_1](https://github.com/23Vishan/Software-Quality/blob/main/Images/Func_1.png)
-![Functions_2](https://github.com/23Vishan/Software-Quality/blob/main/Images/Func_2.png)
+<img src="https://github.com/23Vishan/Software-Quality/blob/main/Images/Func_1.png" width=650><br>
+<img src="https://github.com/23Vishan/Software-Quality/blob/main/Images/Func_2.png" width=650><br>
