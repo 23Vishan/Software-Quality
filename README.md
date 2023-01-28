@@ -13,7 +13,7 @@
 - [BinaryTest.java](https://github.com/23Vishan/Software-Quality-Lab-1/blob/main/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java)
 
 ## Building Project
-![](Build.gif)
+![](https://github.com/23Vishan/Software-Quality/blob/main/Images/Build.gif)
 
 ## Output
 <img src="https://github.com/23Vishan/Software-Quality/blob/main/Images/Output.png" width=600 height=300><br>
