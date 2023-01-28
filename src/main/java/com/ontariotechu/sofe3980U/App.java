@@ -28,9 +28,6 @@ public class App
 		Binary binary2 = new Binary("111000");
         System.out.println( "Second binary number is "+ binary2.getValue());
 		System.out.println("--------------------------------------------------------------------------");
-		
-		Binary sum = Binary.add(binary1,binary2);
-		System.out.println( "Their summation is " + sum.getValue());
 
 		Binary or = Binary.or(binary1, binary2);
 		System.out.println("Their bitwise logical OR is " + or.getValue());
@@ -44,7 +41,7 @@ public class App
 		System.out.println("--------------------------------------------------------------------------");
 
 		Binary mul = Binary.multiply(binary1, binary2);
-		System.out.println("The product is " + mul.getValue() + " or " + mul.binToDec() + " in binary");
+		System.out.println("The product is " + mul.getValue() + " or " + mul.binToDec() + " in decimal");
 		
 		System.out.println("--------------------------------------------------------------------------");
     }

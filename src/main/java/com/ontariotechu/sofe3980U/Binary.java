@@ -36,12 +36,15 @@ public class Binary
 		}
 		
 		// beg has the index of the first non zero digit in the number
-		this.number = number.substring(beg); // exclude the trailing zeros if any
-
-		// replace empty strings with a single zero
-		if (this.number == "") 
+		if (beg == number.length())
 		{
-			this.number = "0";
+			// replace strings with only zeros with a single zero
+			this.number = "0";		
+		}
+		else
+		{
+			// exclude the trailing zeros if any
+			this.number = number.substring(beg);
 		}
     }
 
@@ -103,7 +106,7 @@ public class Binary
 	* Calculates the bitwise logical OR of two binary numbers
 	*
 	* @param num1 The first binary variable
-	* @param num2 The second binary varible
+	* @param num2 The second binary variable
 	* @return A binary variable with a value of <i>num1 OR num2</i>.
 	*/
 	public static Binary or(Binary num1, Binary num2)
@@ -148,7 +151,7 @@ public class Binary
 	* Calculates the bitwise logical AND of two binary numbers
 	*
 	* @param num1 The first binary variable
-	* @param num2 The second binary varible
+	* @param num2 The second binary variable
 	* @return A binary variable with a value of <i>num1 AND num2</i>.
 	*/
 	public static Binary and(Binary num1, Binary num2)
@@ -201,7 +204,7 @@ public class Binary
 	* Multiples the two binary variables
 	*
 	* @param num1 The first binary variable
-	* @param num2 The second binary varible
+	* @param num2 The second binary variable
 	* @return A binary variable with a value of <i>num1 x num2</i>.
 	*/
 	public static Binary multiply(Binary num1, Binary num2)
