@@ -1,2 +1,1 @@
-# Software-Quality
-Lab 1: Software Project Management and Comprehension Tool
+# Lab 2: Implementing and Testing Web Application and API Service using Apache Maven and Spring Boot
