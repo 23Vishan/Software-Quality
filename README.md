@@ -9,3 +9,7 @@
   <li>Hanzalla Naveed - 100748614</li>
 
 ## Shortcuts
+- [BinaryApiControllerTest.java](https://github.com/23Vishan/Software-Quality/blob/main/src/test/java/com.ontariotechu.sofe3980U/BinaryControllerTest.java)
+- [BinaryApiController.java](https://github.com/23Vishan/Software-Quality/blob/main/src/main/java/com.ontariotechu.sofe3980U/BinaryAPIController.java)
+- [BinaryControllerTest.java](https://github.com/23Vishan/Software-Quality/blob/main/src/test/java/com.ontariotechu.sofe3980U/BinaryControllerTest.java)
+- [BinaryController.java](https://github.com/23Vishan/Software-Quality/blob/main/src/main/java/com.ontariotechu.sofe3980U/BinaryController.java)
