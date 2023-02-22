@@ -13,3 +13,13 @@
 - [BinaryApiController.java](https://github.com/23Vishan/Software-Quality/blob/main/src/main/java/com.ontariotechu.sofe3980U/BinaryAPIController.java)
 - [BinaryControllerTest.java](https://github.com/23Vishan/Software-Quality/blob/main/src/test/java/com.ontariotechu.sofe3980U/BinaryControllerTest.java)
 - [BinaryController.java](https://github.com/23Vishan/Software-Quality/blob/main/src/main/java/com.ontariotechu.sofe3980U/BinaryController.java)
+
+## Demonstration
+### Build
+![](https://github.com/23Vishan/Software-Quality/blob/main/Images/build.gif)
+
+### Web Application
+![](https://github.com/23Vishan/Software-Quality/blob/main/Images/web.gif)
+
+### API
+![](https://github.com/23Vishan/Software-Quality/blob/main/Images/api.gif)
