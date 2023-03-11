@@ -16,10 +16,10 @@
 
 ## Demonstration
 ### Build
-![](https://github.com/23Vishan/Software-Quality/blob/main/Images/build.gif)
+![](https://github.com/23Vishan/Software-Quality/blob/main/Lab%202/Images/build.gif)
 
 ### Web Application
-![](https://github.com/23Vishan/Software-Quality/blob/main/Images/web.gif)
+![](https://github.com/23Vishan/Software-Quality/blob/main/Lab%202/Images/web.gif)
 
 ### API
-![](https://github.com/23Vishan/Software-Quality/blob/main/Images/api.gif)
+![](https://github.com/23Vishan/Software-Quality/blob/main/Lab%202/Images/api.gif)
