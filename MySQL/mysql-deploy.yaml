@@ -21,9 +21,9 @@ spec:
             - name: MYSQL_USER
               value: user
             - name: MYSQL_PASSWORD
-              value: sofe3980u
+              value: password
             - name: MYSQL_DATABASE
-              value: Readings
+              value: GroupA5
           ports:
             - containerPort: 3306
               name: mysql
