@@ -1,4 +1,4 @@
-# Lab 3: title
+# Lab 3: Deploying using Google Kubernetes Engine
 
 ## Group A5 Information
 <p>Members</p>
