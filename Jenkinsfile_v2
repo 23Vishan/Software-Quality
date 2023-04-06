@@ -48,14 +48,9 @@ spec:
         sh 'echo "Start of Job"'
       }
     }
-    //stage ('test') {
-    //  steps {
-    //    sh 'mvn clean test -f ./BinaryCalculatorWebapp/pom.xml'
-    //  }
-    //}
     stage ('build') {
       steps {
-        sh 'mvn package -DskipTests -f ./BinaryCalculatorWebapp/pom.xml'
+        sh 'mvn package -DskipTests -f ./pom.xml'
       }
     }
     stage('Build and push image with Container Builder') {
