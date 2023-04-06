@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: calc-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: calc
+  template:
+    metadata:
+      labels:
+        app: calc
+    spec:
+      containers:
+        - image: gcr.io/vivid-gantry-379623/binarycalculatorversion2
+          name: calc
+          ports:
+            - containerPort: 8080
+              name: calc
