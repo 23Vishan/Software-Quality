@@ -13,3 +13,5 @@
 - [BinaryCalculatorWebapp Directory](https://github.com/23Vishan/Software-Quality/tree/main/Lab%202/BinaryCalculatorWebapp)
 - [BinaryCalculatorWebapp Service YAML](https://github.com/23Vishan/Software-Quality/blob/main/calc-service.yaml)
 - [BinaryCalculatorWebapp Deployment YAML](https://github.com/23Vishan/Software-Quality/blob/main/calc-deploy.yaml)
+
+Submitted
