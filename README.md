@@ -1,4 +1,4 @@
-# Lab 3: Deploying using Google Kubernetes Engine
+# Lab 4: Continuous Integration and Continuous Delivery (Jenkins)
 
 ## Group A5 Information
 <p>Members</p>
